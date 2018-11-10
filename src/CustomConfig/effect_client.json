@@ -1,0 +1,8 @@
+{
+	"E_000_1": { "effectname":"E_000_1", "effectdir":8, "effectloop":false, "totaltime":0, "scale":1 },
+	"E_000_2": { "effectname":"E_000_2", "effectdir":1, "effectloop":true, "totaltime":3000, "scale":1.2 },
+	"E_000_3": { "effectname":"E_000_3", "effectdir":8, "effectloop":false, "totaltime":0, "scale":2 },
+	"E_000_4": { "effectname":"E_000_4", "effectdir":8, "effectloop":false, "totaltime":0, "scale":1 },
+	"E_000_5": { "effectname":"E_000_5", "effectdir":1, "effectloop":false, "totaltime":0, "scale":1 },
+	"E_100_1": { "effectname":"E_100_1", "effectdir":1, "effectloop":false, "totaltime":0, "scale":1 }
+}

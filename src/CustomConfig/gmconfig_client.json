@@ -1,0 +1,12 @@
+{
+	"list":[
+		{ "id":1, "name":"获取物品", "kind":1, "command":"fetch", "para":"itemid,num" },
+		{ "id":2, "name":"加载表格", "kind":1, "command":"reloadtbx", "para":"" },
+		{ "id":3, "name":"开放指令", "kind":1, "command":"opencmd", "para":"name" },
+		{ "id":4, "name":"屏蔽指令", "kind":1, "command":"closecmd", "para":"name,duration" },
+		{ "id":5, "name":"踢玩家下线", "kind":1, "command":"kickout", "para":"" },
+		{ "id":6, "name":"加钱", "kind":1, "command":"addmoney", "para":"kind,num" },
+		{ "id":7, "name":"升级", "kind":1, "command":"levelup", "para":"num" },
+		{ "id":8, "name":"增加经验", "kind":1, "command":"addexp", "para":"num" }
+	]
+}
